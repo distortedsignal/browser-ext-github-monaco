@@ -12,7 +12,9 @@
 		{
 			"matches": [
 				"https://github.com/*",
-				"https://gist.github.com/*"
+				"https://gist.github.com/*",
+				"https://github.*.*/*",
+				"https://gist.github.*.*/*"
 			],
 			"js": ["/dist/content-script.js"],
 			"run_at": "document_end"
