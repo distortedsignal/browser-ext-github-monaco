@@ -20,6 +20,11 @@
 			"run_at": "document_end"
 		}
 	],
-	"permissions": ["https://github.com/*"],
+	"permissions": [
+		"https://github.com/*",
+		"https://gist.github.com/*",
+		"https://github.*.*/*",
+		"https://gist.github.*.*/*"
+	],
 	"web_accessible_resources": ["dist/*"]
 }
