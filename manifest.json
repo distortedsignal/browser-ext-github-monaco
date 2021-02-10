@@ -3,7 +3,7 @@
 	"name": "Monaco Markdown Editor For GitHub",
 	"version": "0.4.3",
 
-	"description": "This extension brings the famous Monaco editor to GitHub!",
+	"description": "Monaco Editor for Gists, GitHub and Enterprise GitHub!",
 	"icons": {
 		"128": "logo.drawio.png"
 	},
